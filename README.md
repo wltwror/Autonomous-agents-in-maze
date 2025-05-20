@@ -81,6 +81,11 @@ There are two possible ways to run the application:
 - `Arrow key right` - show current (cumulative) memory of self-interested team
 - `Esc` - hide the memory display
 
+Example pygame version:
+
+![example](https://github.com/user-attachments/assets/157ff17f-d706-4c80-91e0-beeab1de5d5a)
+
+
 `python3 main.py --run n` (where `n` is an integer) runs the application n times
 and prints statistics to the console. The statistics include:
 - number of wins for each team (and draws if any)
